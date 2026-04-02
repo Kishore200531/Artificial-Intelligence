@@ -1,0 +1,51 @@
+﻿MovieID,Title,Genre,Year,Rating,Votes
+1,Inception,"Sci-Fi, Thriller",2010,8.8,2100000
+2,Titanic,"Romance, Drama",1997,7.8,1200000
+3,The Dark Knight,"Action, Crime",2008,9,2500000
+4,Avatar,"Sci-Fi, Adventure",2009,7.9,1300000
+5,Interstellar,"Sci-Fi, Drama",2014,8.6,1800000
+6,The Matrix,"Sci-Fi, Action",1999,8.7,1700000
+7,Gladiator,"Action, Drama",2000,8.5,1500000
+8,Joker,"Crime, Drama",2019,8.4,1400000
+9,Frozen,"Animation, Family",2013,7.5,900000
+10,Avengers: Endgame,"Action, Sci-Fi",2019,8.4,2300000
+11,Iron Man,"Action, Sci-Fi",2008,7.9,1100000
+12,Captain America,"Action, Adventure",2011,6.9,800000
+13,Thor,"Action, Fantasy",2011,7,850000
+14,Black Panther,"Action, Drama",2018,7.3,900000
+15,Doctor Strange,"Fantasy, Sci-Fi",2016,7.5,1000000
+16,Spider-Man: Homecoming,"Action, Adventure",2017,7.4,950000
+17,Deadpool,"Action, Comedy",2016,8,1100000
+18,Logan,"Action, Drama",2017,8.1,900000
+19,The Avengers,"Action, Sci-Fi",2012,8,1200000
+20,Guardians of Galaxy,"Action, Comedy",2014,8,1000000
+21,Shrek,"Animation, Comedy",2001,7.9,700000
+22,Toy Story,"Animation, Family",1995,8.3,1000000
+23,Finding Nemo,"Animation, Adventure",2003,8.1,950000
+24,Up,"Animation, Drama",2009,8.2,1000000
+25,Coco,"Animation, Family",2017,8.4,800000
+26,The Lion King,"Animation, Drama",1994,8.5,1100000
+27,Aladdin,"Animation, Fantasy",1992,8,750000
+28,Beauty and the Beast,"Animation, Romance",1991,8,700000
+29,Harry Potter 1,"Fantasy, Adventure",2001,7.6,900000
+30,Harry Potter 2,"Fantasy, Adventure",2002,7.4,850000
+31,Harry Potter 3,"Fantasy, Adventure",2004,7.9,900000
+32,Harry Potter 4,"Fantasy, Adventure",2005,7.7,880000
+33,Harry Potter 5,"Fantasy, Adventure",2007,7.5,870000
+34,Harry Potter 6,"Fantasy, Drama",2009,7.6,860000
+35,Harry Potter 7,"Fantasy, Action",2011,8.1,950000
+36,The Hobbit,"Fantasy, Adventure",2012,7.8,900000
+37,Lord of the Rings 1,"Fantasy, Adventure",2001,8.8,1700000
+38,Lord of the Rings 2,"Fantasy, Adventure",2002,8.7,1600000
+39,Lord of the Rings 3,"Fantasy, Adventure",2003,8.9,1800000
+40,Jurassic Park,"Adventure, Sci-Fi",1993,8.1,900000
+41,Jaws,"Thriller, Adventure",1975,8,700000
+42,The Godfather,"Crime, Drama",1972,9.2,1800000
+43,The Shawshank Redemption,Drama,1994,9.3,2500000
+44,Forrest Gump,"Drama, Romance",1994,8.8,2000000
+45,Fight Club,Drama,1999,8.8,1900000
+46,Pulp Fiction,"Crime, Drama",1994,8.9,1800000
+47,The Social Network,Drama,2010,7.7,700000
+48,Whiplash,"Drama, Music",2014,8.5,800000
+49,La La Land,"Musical, Romance",2016,8,750000
+50,Parasite,"Thriller, Drama",2019,8.6,900000
